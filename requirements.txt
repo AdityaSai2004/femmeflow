@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-multipart
+pandas
+streamlit
+plotly
+python-dotenv
